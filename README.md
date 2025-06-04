@@ -62,6 +62,6 @@ La aplicación presenta un menú principal con las siguientes opciones:
 *Notas Importantes
 
 - Los IDs son generados automáticamente por el sistema
-- Las fechas deben ingresarse en formato dd/MM/yyyy
+- Las fechas deben ingresarse en formato Dia/Mes/Año, puede usar "/" para dividir los mismos
 - Los datos se guardan automáticamente en la base de datos
 - Puede salir del programa en cualquier momento seleccionando la opción 0 
